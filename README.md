@@ -6,5 +6,6 @@ I'm preparing for the Google Cloud Certification - Associate Cloud Engineer Exam
 
 <b>2)</b> DevOps stuff </b>
 
+Will update soon!
 
 
