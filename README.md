@@ -1,4 +1,4 @@
-# GCP Associate-Cloud-Engineer
+# GCP Associate Cloud Engineer Exam
 I'm preparing for the Google Cloud Certification - Associate Cloud Engineer Exam. This repo will have the questions similar to the exam.
 
 # Topics
